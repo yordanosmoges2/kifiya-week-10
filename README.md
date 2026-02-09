@@ -1,7 +1,7 @@
 # Ethiopia Financial Inclusion Forecast
 
 This project builds a forecasting system to track Ethiopia’s financial inclusion
-trajectory using World Bank Global Findex indicators.
+trajectory using World Bank Global Findex indicators
 
 ## Core Indicators
 - Access: Account ownership rate
